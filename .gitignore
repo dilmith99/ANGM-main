@@ -5,6 +5,13 @@
 *.scss.map
 *~
 
+# default
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+*~
+
 # dependencies
 /node_modules
 /.pnp
@@ -174,6 +181,7 @@ test/
 .LSOverride
 
 # Icon must end with two \r
+Icon
 Icon
 
 # Thumbnails
