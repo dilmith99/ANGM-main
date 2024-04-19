@@ -81,7 +81,7 @@ lg:p-8 xs:rounded-2xl  xs:rounded-br-3xl xs:p-4
             "
             aria-label="Crypto Screener Application"
           >
-            Visit Project
+            Read More
           </Link>
         </div>
       </div>
@@ -177,64 +177,64 @@ export default function Projects() {
       >
         <Layout className="pt-16">
           <AnimatedText
-            text="Imagination Trumps Knowledge!"
+            text="Angampora Traditonal Martial Arts Journey"
             className="mb-16 !text-8xl !leading-tight lg:!text-7xl sm:mb-8 sm:!text-6xl xs:!text-4xl"
           />
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
             <div className="col-span-12">
               <FeaturedProject
-                type="Featured Project"
-                title="Crypto Screener Application"
-                summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your local currency."
+                type="Featured Exibit"
+                title="Wisweja Winthera ANGM"
+                summary="Whether you’re a practitioner, enthusiast, or curious observer, ANGAMPORA offers a captivating glimpse into the world of martial arts, strength, and combat. It’s a celebration of discipline, technique, and the indomitable spirit that defines warriors across generations."
                 img={proj1}
-                link="https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css"
-                github="https://github.com/codebucks27/CryptoBucks-Final-Code"
+                link=""
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                type="Website Template"
-                title="NFT collection Website"
+                type="Exibit"
+                title="Wisweja Winthera ANGM"
                 img={proj2}
-                link="https://devdreaming.com/videos/create-nft-collection-website-reactjs"
-                github="https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code"
+                link=""
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                type="Website"
-                title="Fashion Studio Website"
+                type="Exibit"
+                title="Wisweja Winthera ANGM"
                 img={proj3}
-                link="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap"
-                github="https://github.com/codebucks27/wibe-studio"
+                link=""
+                github=""
               />
             </div>
             <div className="col-span-12">
               <FeaturedProject
-                type="Portfolio Website"
-                title="React Portfolio Website"
-                summary="A professional portfolio website using React JS, Framer-motion, and Styled-components. It has smooth page transitions, cool background effects, unique design and it is mobile responsive."
+                type="Exibit"
+                title="Wisweja Winthera ANGM"
+                summary="Whether you’re a practitioner, enthusiast, or curious observer, ANGAMPORA offers a captivating glimpse into the world of martial arts, strength, and combat. It’s a celebration of discipline, technique, and the indomitable spirit that defines warriors across generations."
                 img={proj4}
-                link="https://devdreaming.com/videos/build-stunning-portfolio-website-react-js-framer-motion"
-                github="https://github.com/codebucks27/react-portfolio-final"
+                link=""
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                type="Website Template"
+                type="Exibit"
                 img={proj5}
-                title="Agency Website Template"
-                link="https://devdreaming.com/videos/build-stunning-fashion-studio-website-with-reactJS-locomotive-scroll-gsap"
-                github="https://github.com/codebucks27/wibe-studio"
+                title="Wisweja Winthera ANGM"
+                link=""
+                github=""
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                type="Blog Website"
+                type="Exibit"
                 img={proj6}
-                title="DevDreaming"
-                link="https://devdreaming.com"
-                github="https://github.com/codebucks27"
+                title="Wisweja Winthera ANGM"
+                link=""
+                github=""
               />
             </div>
           </div>
